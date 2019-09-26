@@ -5,3 +5,4 @@ for animal in animais:
 
 print('\n')
 print("Qualquer um desses seria um ótimo bicho de estimação! ")
+print("Qualquer um desses seria um ótimo bicho de estimação! ")
